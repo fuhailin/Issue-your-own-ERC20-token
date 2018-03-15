@@ -1,9 +1,9 @@
 pragma solidity ^0.4.18;
 
 // ----------------------------------------------------------------------------
-// '0Fucks' token contract
+// 'SCNU' token contract
 //
-// Deployed to : 0x5A86f0cafD4ef3ba4f0344C138afcC84bd1ED222
+// Deployed to : 0xFF13726Fe2906dB06ff9a90344BbE3E537272aa6
 // Symbol      : 0FUCKS
 // Name        : 0 Fucks Token
 // Total supply: 100000000
